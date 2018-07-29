@@ -33,7 +33,7 @@
     "testdata-w3c-json-form": "^0"
   },
   "dependencies": {
-    "frknbasaran/multer": "^0"
+    "multer": "frknbasaran/multer"
   },
   "engines": {
     "node": ">= 6"
